@@ -11,3 +11,4 @@ The steps involved in this project include:
 
 Languages and utilities used in this project include PowerShell for automation, Azure for cloud infrastructure, Azure Sentinel as our SIEM tool, IPGeolocation.io for obtaining attacker location data, and KQL (Kusto Query Language) for querying and analyzing the collected data.
 
+![GEO_script](https://github.com/Prakher-v/Azure-SIEM-Honeypot/assets/92503482/ad7d474e-168a-4ab2-9e30-c53d09f92bc9)
