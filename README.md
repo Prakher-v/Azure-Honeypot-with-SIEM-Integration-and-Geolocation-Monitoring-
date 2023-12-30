@@ -19,7 +19,7 @@ Log_of_Honeypot_Azure
 
 ![logs_of_honeypot](https://github.com/Prakher-v/Azure-SIEM-Honeypot/assets/92503482/4eb7ce8c-4293-4e54-a5de-e2511bb9b525)
                                                                                         
-Work_Bench_Azure
+Work_Book_Azure_Sentinel
 
 ![work_bench](https://github.com/Prakher-v/Azure-SIEM-Honeypot/assets/92503482/3a9fec0e-e4b0-48e2-a959-a35500a9a5ed)
 
